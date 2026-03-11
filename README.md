@@ -1,6 +1,6 @@
 # Oi, eu sou a Isabella! 👋
 
-Estudante de **Matemática Computacional** na UFF, com experiência em
+Estudante de **Matemática Computacional** na Universidade Federal Fluminense, com experiência em
 desenvolvimento de software, aprendizado de máquina e análise de dados.
 
 ## 🛠️ Tecnologias & Ferramentas
