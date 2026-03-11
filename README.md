@@ -19,5 +19,3 @@ desenvolvimento de software, aprendizado de máquina e análise de dados.
 - Scikit-learn e pipelines de ML
 - Boas práticas de desenvolvimento e Git
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-macedo-gustafson)
