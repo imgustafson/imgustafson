@@ -17,5 +17,5 @@ desenvolvimento de software, aprendizado de máquina e análise de dados.
 
 ## 🌱 Aprendendo
 - Scikit-learn e pipelines de ML
-- Boas práticas de desenvolvimento e Git
+- Boas práticas de desenvolvimento
 
